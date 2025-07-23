@@ -765,11 +765,8 @@ def main():
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <div class="footer">
         <div>
-            Developed by <strong>Sunil Sowrirajan</strong> &copy; 2025 <span id="year"></span> |
-            <a href="https://www.linkedin.com/in/sunil-sowrirajan-40548826b/" target="_blank" title="LinkedIn">
-                <i class="fab fa-linkedin social-icon"></i>
-            </a>
-            <a href="https://github.com/suniltechs" target="_blank" title="GitHub">
+            Developed by <strong>Yogesh R</strong> &copy; 2025 <span id="year"></span> |
+            <a href="https://github.com/Yog0sh" target="_blank" title="GitHub">
                 <i class="fab fa-github social-icon"></i>
             </a>
         </div>
