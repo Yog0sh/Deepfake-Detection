@@ -40,8 +40,8 @@ An AI-powered web app that detects deepfake images/videos using **MesoNet** and 
 ### Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/deepfake_detection_system.git
-   cd deepfake_detection_system
+   git clone https://github.com/Yog0sh/Deepfake_Detection.git
+   cd Deepfake_Detection
   
 2. Create a virtual environment:
    ```
